@@ -198,7 +198,8 @@ void dequeue()
 Output:
 
 
-![Uploading image.png…]()
+<img width="906" height="654" alt="image" src="https://github.com/user-attachments/assets/a6be4d65-ef34-49f4-a507-72cc74a27e77" />
+
 
 
 
